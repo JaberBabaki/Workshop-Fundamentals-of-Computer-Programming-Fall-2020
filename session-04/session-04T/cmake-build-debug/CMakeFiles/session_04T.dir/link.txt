@@ -1,0 +1,3 @@
+"D:\anddev\ide\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\session_04T.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\session_04T.dir/objects.a @CMakeFiles\session_04T.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\session_04T.dir/objects.a -Wl,--no-whole-archive  -o session_04T.exe -Wl,--out-implib,libsession_04T.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\session_04T.dir\linklibs.rsp

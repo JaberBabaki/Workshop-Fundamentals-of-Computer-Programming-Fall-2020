@@ -1,0 +1,3 @@
+D:/anddev/project/C++/session-04T/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/anddev/project/C++/session-04T/cmake-build-debug/CMakeFiles/session_04T.dir
+D:/anddev/project/C++/session-04T/cmake-build-debug/CMakeFiles/rebuild_cache.dir
