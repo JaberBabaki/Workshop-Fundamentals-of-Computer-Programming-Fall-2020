@@ -1,0 +1,6 @@
+ int 4
+ float 4
+ char 1
+ double 8
+
+Process finished with exit code 0

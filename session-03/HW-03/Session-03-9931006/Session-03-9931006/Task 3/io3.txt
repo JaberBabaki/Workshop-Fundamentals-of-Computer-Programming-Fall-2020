@@ -1,0 +1,4 @@
+int : 4
+float : 4
+double : 8
+char : 1

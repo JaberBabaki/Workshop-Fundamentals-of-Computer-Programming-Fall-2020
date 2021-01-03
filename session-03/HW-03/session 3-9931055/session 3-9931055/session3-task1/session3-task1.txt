@@ -1,0 +1,4 @@
+10
+22
+32
+Process finished with exit code 0

@@ -1,0 +1,6 @@
+C:\project\C\C-Workshop\cmake-build-debug\C_Workshop.exe
+Enter a character:
+A
+65
+
+Process finished with exit code 0

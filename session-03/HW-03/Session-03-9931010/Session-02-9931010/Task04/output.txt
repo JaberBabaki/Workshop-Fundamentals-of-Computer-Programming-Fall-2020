@@ -1,0 +1,11 @@
+C:\project\C\C-Workshop\cmake-build-debug\C_Workshop.exe
+0.00
+12
+67831
+779892.2422
+3
+33.0
+     0  12.000   67831
+779892   3.000      33
+
+Process finished with exit code 0
