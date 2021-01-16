@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/daneshgah/Teaching/university class/programing workshop for beginners 99-00/programing workshop for beginners 99-00/session-06/session-06T/task-04.c
+stdio.h
+-
+

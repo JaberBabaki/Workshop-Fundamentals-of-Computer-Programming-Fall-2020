@@ -1,0 +1,3 @@
+E:/daneshgah/Teaching/university class/programing workshop for beginners 99-00/programing workshop for beginners 99-00/session-09/session-09T/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/daneshgah/Teaching/university class/programing workshop for beginners 99-00/programing workshop for beginners 99-00/session-09/session-09T/cmake-build-debug/CMakeFiles/session_09T.dir
+E:/daneshgah/Teaching/university class/programing workshop for beginners 99-00/programing workshop for beginners 99-00/session-09/session-09T/cmake-build-debug/CMakeFiles/edit_cache.dir
