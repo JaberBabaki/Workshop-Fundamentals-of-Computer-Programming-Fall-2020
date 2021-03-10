@@ -1,7 +1,0 @@
-C:\project\C\C-Workshop\cmake-build-debug\C_Workshop.exe
-int: 4
-float: 4
-double 8
-char: 1
-
-Process finished with exit code 0

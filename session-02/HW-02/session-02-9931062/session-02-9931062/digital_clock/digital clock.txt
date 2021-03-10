@@ -1,3 +1,0 @@
-https://blockly-demo.appspot.com/static/demos/code/index.html#ts74dp
-
-it is 5-hour clock with 3-mintue and 10-second

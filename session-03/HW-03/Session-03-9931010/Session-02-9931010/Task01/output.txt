@@ -1,6 +1,0 @@
-C:\project\C\C-Workshop\cmake-build-debug\C_Workshop.exe
-3
-5
-The result is: 8
-
-Process finished with exit code 0
